@@ -1,9 +1,9 @@
-package com.lifestratproj.app.controller;
+package com.lifestratproj.controller;
 
-import com.lifestratproj.app.dto.RegisterRequest;
-import com.lifestratproj.app.dto.LoginRequest;
-import com.lifestratproj.app.dto.AuthResponse;
-import com.lifestratproj.app.service.AuthService;
+import com.lifestratproj.dto.RegisterRequest;
+import com.lifestratproj.dto.LoginRequest;
+import com.lifestratproj.dto.AuthResponse;
+import com.lifestratproj.service.AuthService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

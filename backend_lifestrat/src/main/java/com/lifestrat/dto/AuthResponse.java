@@ -1,4 +1,4 @@
-package com.lifestratproj.app.dto;
+package com.lifestratproj.dto;
 
 public class AuthResponse {
     private String message;

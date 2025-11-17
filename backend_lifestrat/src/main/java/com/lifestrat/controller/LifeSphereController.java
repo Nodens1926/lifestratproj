@@ -1,7 +1,7 @@
-package com.lifestratproj.app.controller;
+package com.lifestratproj.controller;
 
-import com.lifestratproj.app.entity.LifeSphere;
-import com.lifestratproj.app.service.LifeSphereService;
+import com.lifestratproj.entity.LifeSphere;
+import com.lifestratproj.service.LifeSphereService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

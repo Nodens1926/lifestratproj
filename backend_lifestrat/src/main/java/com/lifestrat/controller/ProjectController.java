@@ -1,8 +1,8 @@
-package com.lifestratproj.app.controller;
+package com.lifestratproj.controller;
 
-import com.lifestratproj.app.dto.ProjectRequest;
-import com.lifestratproj.app.entity.Project;
-import com.lifestratproj.app.service.ProjectService;
+import com.lifestratproj.dto.ProjectRequest;
+import com.lifestratproj.entity.Project;
+import com.lifestratproj.service.ProjectService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

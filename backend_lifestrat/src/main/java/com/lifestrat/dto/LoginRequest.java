@@ -1,4 +1,4 @@
-package com.lifestratproj.app.dto;
+package com.lifestratproj.dto;
 
 import javax.validation.constraints.NotBlank;
 
